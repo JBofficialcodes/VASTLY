@@ -47,7 +47,7 @@ if destination == "Outdoors":
 		response = input("Other Random Acitvities (Yes/No)?: " )
 
 if destination == "Kid Activities":
-	print( " Let the kids run  wild with these acvities! Childrens Museum of Atlanta, Center for Puppetry Arts, Main Event, Fernbank Museum, Fernbank Science Museum, LegoLand Atlnata ." )
+	print( " Let the kids run wild with these activities! Childrens Museum of Atlanta, Center for Puppetry Arts, Main Event, Fernbank Museum, Fernbank Science Museum, LegoLand Atlnata ." )
 	response = input("Random Acitvities (Yes/No)?: ")
 	while response == "Yes":
 		print( "Here's some random activities!: " , end = '' )
